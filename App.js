@@ -30,7 +30,7 @@ export default class App extends React.Component{
   }
   render(){
     return (
-      <Text style={{color:'blue'}}>Hello world!</Text>
+      <Text style={{color:'blue',fontSize:20}}>Hello world!</Text>
     );
   }
 }
